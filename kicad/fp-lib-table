@@ -1,0 +1,8 @@
+(fp_lib_table
+  (lib (name "images")(type "KiCad")(uri "/home/zach/dev/personal/keyswitches.pretty/images")(options "")(descr ""))
+  (lib (name "3dmodels")(type "KiCad")(uri "/home/zach/dev/personal/Keebio-Parts.pretty/3dmodels")(options "")(descr ""))
+  (lib (name "heads")(type "KiCad")(uri "/home/zach/dev/personal/keyboard_parts.pretty/.git/logs/refs/heads")(options "")(descr ""))
+  (lib (name "kbd")(type "KiCad")(uri "/home/zach/dev/personal/u10e/pcb/libs/kbd")(options "")(descr ""))
+  (lib (name "keyboard_parts")(type "KiCad")(uri "/home/zach/dev/personal/u10e/pcb/libs/keyboard_parts.pretty")(options "")(descr ""))
+  (lib (name "kicad_lib_tmk")(type "KiCad")(uri "/home/zach/dev/personal/u10e/pcb/libs/kicad_lib_tmk")(options "")(descr ""))
+)
