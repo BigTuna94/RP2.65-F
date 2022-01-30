@@ -5,4 +5,5 @@
   (lib (name "kbd")(type "KiCad")(uri "/home/zach/dev/personal/u10e/pcb/libs/kbd")(options "")(descr ""))
   (lib (name "keyboard_parts")(type "KiCad")(uri "/home/zach/dev/personal/u10e/pcb/libs/keyboard_parts.pretty")(options "")(descr ""))
   (lib (name "kicad_lib_tmk")(type "KiCad")(uri "/home/zach/dev/personal/u10e/pcb/libs/kicad_lib_tmk")(options "")(descr ""))
+  (lib (name "RP2040_minimal")(type "KiCad")(uri "/home/zach/Documents/kicad_designs/rp2040_minimal/RP2040_minimal/RP2040_minimal.pretty")(options "")(descr ""))
 )
