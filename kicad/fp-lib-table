@@ -7,4 +7,7 @@
   (lib (name "kicad_lib_tmk")(type "KiCad")(uri "/home/zach/dev/personal/u10e/pcb/libs/kicad_lib_tmk")(options "")(descr ""))
   (lib (name "RP2040_minimal")(type "KiCad")(uri "/home/zach/Documents/kicad_designs/rp2040_minimal/RP2040_minimal/RP2040_minimal.pretty")(options "")(descr ""))
   (lib (name "keebio")(type "KiCad")(uri "/home/zach/Documents/kicad/Keebio-Parts.pretty/3dmodels")(options "")(descr ""))
+  (lib (name "keyswitch_3dmodels")(type "KiCad")(uri "/home/zach/Documents/kicad/keyswitch/3dmodels")(options "")(descr "")(disabled))
+  (lib (name "keyswitch")(type "KiCad")(uri "/home/zach/Documents/kicad/keyswitch/footprints")(options "")(descr "")(disabled))
+  (lib (name "ECS-120")(type "KiCad")(uri "/home/zach/Documents/kicad/ECS-120-10-36B/footprints.pretty")(options "")(descr ""))
 )
