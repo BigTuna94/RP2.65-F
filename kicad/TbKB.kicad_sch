@@ -5877,7 +5877,7 @@
   (symbol (lib_id "Switch:SW_SPST") (at 431.8 132.08 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 07ce3f8c-f971-451e-9505-907cf6ead2a0)
-    (property "Reference" "K_'2" (id 0) (at 431.8 125.73 0))
+    (property "Reference" "K_42" (id 0) (at 431.8 125.73 0))
     (property "Value" "SW_SPST" (id 1) (at 431.8 128.27 0))
     (property "Footprint" "keyswitches:Kailh_socket_MX_1u" (id 2) (at 431.8 132.08 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -5909,7 +5909,7 @@
   (symbol (lib_id "Switch:SW_SPST") (at 477.52 99.06 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 08c2a5bb-f9af-4fec-953a-41d957edd035)
-    (property "Reference" "K_=1" (id 0) (at 477.52 92.71 0))
+    (property "Reference" "K_15" (id 0) (at 477.52 92.71 0))
     (property "Value" "SW_SPST" (id 1) (at 477.52 95.25 0))
     (property "Footprint" "keyswitches:Kailh_socket_MX_1u" (id 2) (at 477.52 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -5941,7 +5941,7 @@
   (symbol (lib_id "Switch:SW_SPST") (at 477.52 118.11 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 0a63490f-6966-4c07-99b7-cab532b5ff01)
-    (property "Reference" "K_]1" (id 0) (at 477.52 111.76 0))
+    (property "Reference" "K_30" (id 0) (at 477.52 111.76 0))
     (property "Value" "SW_SPST" (id 1) (at 477.52 114.3 0))
     (property "Footprint" "keyswitches:Kailh_socket_MX_1u" (id 2) (at 477.52 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -6006,7 +6006,7 @@
   (symbol (lib_id "Switch:SW_SPST") (at 279.4 151.13 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 0c786253-16cf-4e1b-ad47-cb2ba81876d7)
-    (property "Reference" "K_z1" (id 0) (at 279.4 144.78 0))
+    (property "Reference" "K_48" (id 0) (at 279.4 144.78 0))
     (property "Value" "SW_SPST" (id 1) (at 279.4 147.32 0))
     (property "Footprint" "keyswitches:Kailh_socket_MX_1u" (id 2) (at 279.4 151.13 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -6021,7 +6021,7 @@
   (symbol (lib_id "Switch:SW_SPST") (at 447.04 175.26 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 0d2b60b2-3ab1-48ab-ba0f-e6c6930526f0)
-    (property "Reference" "K_left1" (id 0) (at 447.04 168.91 0))
+    (property "Reference" "K_70" (id 0) (at 447.04 168.91 0))
     (property "Value" "SW_SPST" (id 1) (at 447.04 171.45 0))
     (property "Footprint" "keyswitches:Kailh_socket_MX_1u" (id 2) (at 447.04 175.26 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -6089,7 +6089,7 @@
   (symbol (lib_id "Switch:SW_SPST") (at 325.12 137.16 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 10d2fc76-436d-45eb-82a7-6d64a826932c)
-    (property "Reference" "K_f1" (id 0) (at 325.12 130.81 0))
+    (property "Reference" "K_35" (id 0) (at 325.12 130.81 0))
     (property "Value" "SW_SPST" (id 1) (at 325.12 133.35 0))
     (property "Footprint" "keyswitches:Kailh_socket_MX_1u" (id 2) (at 325.12 137.16 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -6140,7 +6140,7 @@
   (symbol (lib_id "Switch:SW_SPST") (at 401.32 170.18 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 12be5158-d3fd-4a5b-8c6d-080a922cc76b)
-    (property "Reference" "K_Alt1" (id 0) (at 401.32 163.83 0))
+    (property "Reference" "K_68" (id 0) (at 401.32 163.83 0))
     (property "Value" "SW_SPST" (id 1) (at 401.32 166.37 0))
     (property "Footprint" "keyswitches:Kailh_socket_MX_1.25u" (id 2) (at 401.32 170.18 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -6155,7 +6155,7 @@
   (symbol (lib_id "Switch:SW_SPST") (at 416.56 118.11 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 12fb07c8-c29b-4bcf-b53c-f2481634e502)
-    (property "Reference" "K_p1" (id 0) (at 416.56 111.76 0))
+    (property "Reference" "K_26" (id 0) (at 416.56 111.76 0))
     (property "Value" "SW_SPST" (id 1) (at 416.56 114.3 0))
     (property "Footprint" "keyswitches:Kailh_socket_MX_1u" (id 2) (at 416.56 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -6170,7 +6170,7 @@
   (symbol (lib_id "Switch:SW_SPST") (at 325.12 156.21 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 14c08bf6-e5fe-4f95-9582-57940a5acea2)
-    (property "Reference" "K_v1" (id 0) (at 325.12 149.86 0))
+    (property "Reference" "K_51" (id 0) (at 325.12 149.86 0))
     (property "Value" "SW_SPST" (id 1) (at 325.12 152.4 0))
     (property "Footprint" "keyswitches:Kailh_socket_MX_1u" (id 2) (at 325.12 156.21 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -6221,7 +6221,7 @@
   (symbol (lib_id "Switch:SW_SPST") (at 355.6 191.77 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 182656ee-5a69-4ef5-99ed-b9ed53404886)
-    (property "Reference" "K_Space_2U_2" (id 0) (at 355.6 185.42 0))
+    (property "Reference" "K_65" (id 0) (at 355.6 185.42 0))
     (property "Value" "SW_SPST" (id 1) (at 355.6 187.96 0))
     (property "Footprint" "keyswitches:Kailh_socket_MX_2.25u" (id 2) (at 355.6 191.77 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -6290,7 +6290,7 @@
   (symbol (lib_id "Switch:SW_SPST") (at 401.32 132.08 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 1a286f42-2f53-4773-b96f-e749bc1aa377)
-    (property "Reference" "K_l1" (id 0) (at 401.32 125.73 0))
+    (property "Reference" "K_40" (id 0) (at 401.32 125.73 0))
     (property "Value" "SW_SPST" (id 1) (at 401.32 128.27 0))
     (property "Footprint" "keyswitches:Kailh_socket_MX_1u" (id 2) (at 401.32 132.08 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -6469,7 +6469,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 194.31 377.19 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 21e23f07-8d24-4f98-82ce-0948f29f5061)
-    (property "Reference" "SW_USB_BOOT1" (id 0) (at 195.58 375.9199 90)
+    (property "Reference" "USB_BOOT" (id 0) (at 195.58 375.9199 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "KMR2" (id 1) (at 195.58 378.4599 90)
@@ -6538,7 +6538,7 @@
   (symbol (lib_id "Switch:SW_SPST") (at 431.8 113.03 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 24e59acf-6a7d-4b2b-99e9-579d9466a6d7)
-    (property "Reference" "K_bkspc1" (id 0) (at 431.8 106.68 0))
+    (property "Reference" "K_28" (id 0) (at 431.8 106.68 0))
     (property "Value" "SW_SPST" (id 1) (at 431.8 109.22 0))
     (property "Footprint" "keyswitches:Kailh_socket_MX_2u" (id 2) (at 431.8 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -6958,7 +6958,7 @@
   (symbol (lib_id "Switch:SW_SPST") (at 370.84 93.98 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 33cfebe8-91e4-447c-afd8-1289ef45ad8a)
-    (property "Reference" "K_7" (id 0) (at 370.84 87.63 0))
+    (property "Reference" "K_8" (id 0) (at 370.84 87.63 0))
     (property "Value" "SW_SPST" (id 1) (at 370.84 90.17 0))
     (property "Footprint" "keyswitches:Kailh_socket_MX_1u" (id 2) (at 370.84 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -6973,7 +6973,7 @@
   (symbol (lib_id "Switch:SW_SPST") (at 248.92 93.98 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 342955d8-bf5d-418c-abc4-65240b87376d)
-    (property "Reference" "K_esc1" (id 0) (at 248.92 87.63 0))
+    (property "Reference" "K_0" (id 0) (at 248.92 87.63 0))
     (property "Value" "SW_SPST" (id 1) (at 248.92 90.17 0))
     (property "Footprint" "keyswitches:Kailh_socket_MX_1u" (id 2) (at 248.92 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -7470,7 +7470,7 @@
   (symbol (lib_id "Switch:SW_SPST") (at 355.6 99.06 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 43568d3f-3c4d-4e78-b724-c16365b0254c)
-    (property "Reference" "K_6" (id 0) (at 355.6 92.71 0))
+    (property "Reference" "K_7" (id 0) (at 355.6 92.71 0))
     (property "Value" "SW_SPST" (id 1) (at 355.6 95.25 0))
     (property "Footprint" "keyswitches:Kailh_socket_MX_1u" (id 2) (at 355.6 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -7485,7 +7485,7 @@
   (symbol (lib_id "Switch:SW_Push") (at 297.18 394.97 270) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 44a132a0-a217-46a5-a3f4-786ded4eab26)
-    (property "Reference" "SW_RST1" (id 0) (at 300.99 393.6999 90)
+    (property "Reference" "RESET" (id 0) (at 300.99 393.6999 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "KMR2" (id 1) (at 300.99 396.2399 90)
@@ -7540,7 +7540,7 @@
   (symbol (lib_id "Switch:SW_SPST") (at 309.88 151.13 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 47253dda-c5bb-41df-a403-1dcdb3d1a46b)
-    (property "Reference" "K_c1" (id 0) (at 309.88 144.78 0))
+    (property "Reference" "K_50" (id 0) (at 309.88 144.78 0))
     (property "Value" "SW_SPST" (id 1) (at 309.88 147.32 0))
     (property "Footprint" "keyswitches:Kailh_socket_MX_1u" (id 2) (at 309.88 151.13 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -7663,7 +7663,7 @@
   (symbol (lib_id "Switch:SW_SPST") (at 462.28 132.08 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 4c3a51c7-470e-47ff-ac1d-05c7e947725c)
-    (property "Reference" "K_'1" (id 0) (at 462.28 125.73 0))
+    (property "Reference" "K_45" (id 0) (at 462.28 125.73 0))
     (property "Value" "SW_SPST" (id 1) (at 462.28 128.27 0))
     (property "Footprint" "keyswitches:Kailh_socket_MX_1u" (id 2) (at 462.28 132.08 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -7985,7 +7985,7 @@
   (symbol (lib_id "Switch:SW_SPST") (at 294.64 156.21 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 5aa76efa-537b-44d7-be6a-dc46d8bd50c4)
-    (property "Reference" "K_x1" (id 0) (at 294.64 149.86 0))
+    (property "Reference" "K_49" (id 0) (at 294.64 149.86 0))
     (property "Value" "SW_SPST" (id 1) (at 294.64 152.4 0))
     (property "Footprint" "keyswitches:Kailh_socket_MX_1u" (id 2) (at 294.64 156.21 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -8123,7 +8123,7 @@
   (symbol (lib_id "Switch:SW_SPST") (at 431.8 151.13 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 5fd52a97-7700-4290-be78-a519453791e8)
-    (property "Reference" "K_rshift1" (id 0) (at 431.8 144.78 0))
+    (property "Reference" "K_59" (id 0) (at 431.8 144.78 0))
     (property "Value" "SW_SPST" (id 1) (at 431.8 147.32 0))
     (property "Footprint" "keyswitches:Kailh_socket_MX_1.5u" (id 2) (at 431.8 151.13 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -8172,7 +8172,7 @@
   (symbol (lib_id "Switch:SW_SPST") (at 386.08 118.11 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 62052121-189f-465a-9c58-357e92445071)
-    (property "Reference" "K_i1" (id 0) (at 386.08 111.76 0))
+    (property "Reference" "K_24" (id 0) (at 386.08 111.76 0))
     (property "Value" "SW_SPST" (id 1) (at 386.08 114.3 0))
     (property "Footprint" "keyswitches:Kailh_socket_MX_1u" (id 2) (at 386.08 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -8187,7 +8187,7 @@
   (symbol (lib_id "Switch:SW_SPST") (at 477.52 175.26 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 625432a1-0ff3-4689-80ca-24a11631761b)
-    (property "Reference" "K_right1" (id 0) (at 477.52 168.91 0))
+    (property "Reference" "K_72" (id 0) (at 477.52 168.91 0))
     (property "Value" "SW_SPST" (id 1) (at 477.52 171.45 0))
     (property "Footprint" "keyswitches:Kailh_socket_MX_1u" (id 2) (at 477.52 175.26 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -8221,7 +8221,7 @@
   (symbol (lib_id "Switch:SW_SPST") (at 309.88 132.08 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 626a15d0-3c1d-476d-bfd1-b99a2d7c1511)
-    (property "Reference" "K_d1" (id 0) (at 309.88 125.73 0))
+    (property "Reference" "K_34" (id 0) (at 309.88 125.73 0))
     (property "Value" "SW_SPST" (id 1) (at 309.88 128.27 0))
     (property "Footprint" "keyswitches:Kailh_socket_MX_1u" (id 2) (at 309.88 132.08 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -8253,7 +8253,7 @@
   (symbol (lib_id "Switch:SW_SPST") (at 264.16 137.16 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 64fe4a76-241d-42f0-9796-138083536b78)
-    (property "Reference" "K_ctrl1" (id 0) (at 264.16 130.81 0))
+    (property "Reference" "K_31" (id 0) (at 264.16 130.81 0))
     (property "Value" "SW_SPST" (id 1) (at 264.16 133.35 0))
     (property "Footprint" "keyswitches:Kailh_socket_MX_1.5u" (id 2) (at 264.16 137.16 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -8303,7 +8303,7 @@
   (symbol (lib_id "Switch:SW_SPST") (at 477.52 156.21 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 691eccea-d4c7-4f82-a980-47c916501bf0)
-    (property "Reference" "K_end1" (id 0) (at 477.52 149.86 0))
+    (property "Reference" "K_60" (id 0) (at 477.52 149.86 0))
     (property "Value" "SW_SPST" (id 1) (at 477.52 152.4 0))
     (property "Footprint" "keyswitches:Kailh_socket_MX_1u" (id 2) (at 477.52 156.21 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -8370,7 +8370,7 @@
   (symbol (lib_id "Switch:SW_SPST") (at 355.6 175.26 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 6b126620-87b1-4783-bca8-0a87aee8ce6c)
-    (property "Reference" "K_enter1" (id 0) (at 355.6 168.91 0))
+    (property "Reference" "K_66" (id 0) (at 355.6 168.91 0))
     (property "Value" "SW_SPST" (id 1) (at 355.6 171.45 0))
     (property "Footprint" "keyswitches:Kailh_socket_MX_2.25u" (id 2) (at 355.6 175.26 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -8420,7 +8420,7 @@
   (symbol (lib_id "Switch:SW_SPST") (at 325.12 99.06 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 6e9fc32d-3981-41e5-ae4f-c141e49334cf)
-    (property "Reference" "K_4" (id 0) (at 325.12 92.71 0))
+    (property "Reference" "K_5" (id 0) (at 325.12 92.71 0))
     (property "Value" "SW_SPST" (id 1) (at 325.12 95.25 0))
     (property "Footprint" "keyswitches:Kailh_socket_MX_1u" (id 2) (at 325.12 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -8526,7 +8526,7 @@
   (symbol (lib_id "Switch:SW_SPST") (at 401.32 113.03 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 717e4c12-166c-4fcc-a728-1de24153ae38)
-    (property "Reference" "K_o1" (id 0) (at 401.32 106.68 0))
+    (property "Reference" "K_25" (id 0) (at 401.32 106.68 0))
     (property "Value" "SW_SPST" (id 1) (at 401.32 109.22 0))
     (property "Footprint" "keyswitches:Kailh_socket_MX_1u" (id 2) (at 401.32 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -8541,7 +8541,7 @@
   (symbol (lib_id "Switch:SW_SPST") (at 416.56 99.06 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 71fab1fe-4605-46c2-9e4d-43ccd023b3cc)
-    (property "Reference" "K_0" (id 0) (at 416.56 92.71 0))
+    (property "Reference" "K_11" (id 0) (at 416.56 92.71 0))
     (property "Value" "SW_SPST" (id 1) (at 416.56 95.25 0))
     (property "Footprint" "keyswitches:Kailh_socket_MX_1u" (id 2) (at 416.56 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -8699,7 +8699,7 @@
   (symbol (lib_id "Switch:SW_SPST") (at 416.56 137.16 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 785eadbe-c3ff-455e-861f-b18cfd3b8be0)
-    (property "Reference" "K_;1" (id 0) (at 416.56 130.81 0))
+    (property "Reference" "K_41" (id 0) (at 416.56 130.81 0))
     (property "Value" "SW_SPST" (id 1) (at 416.56 133.35 0))
     (property "Footprint" "keyswitches:Kailh_socket_MX_1u" (id 2) (at 416.56 137.16 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -8733,7 +8733,7 @@
   (symbol (lib_id "Switch:SW_SPST") (at 416.56 175.26 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 7c1d743f-2ed7-4b25-9d6a-c0a900bee7f4)
-    (property "Reference" "K_Sys1" (id 0) (at 416.56 168.91 0))
+    (property "Reference" "K_69" (id 0) (at 416.56 168.91 0))
     (property "Value" "SW_SPST" (id 1) (at 416.56 171.45 0))
     (property "Footprint" "keyswitches:Kailh_socket_MX_1u" (id 2) (at 416.56 175.26 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -8748,7 +8748,7 @@
   (symbol (lib_id "Switch:SW_SPST") (at 462.28 113.03 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 7c7e1541-009f-4404-9161-4ad1153aaabd)
-    (property "Reference" "K_[1" (id 0) (at 462.28 106.68 0))
+    (property "Reference" "K_29" (id 0) (at 462.28 106.68 0))
     (property "Value" "SW_SPST" (id 1) (at 462.28 109.22 0))
     (property "Footprint" "keyswitches:Kailh_socket_MX_1u" (id 2) (at 462.28 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -8836,7 +8836,7 @@
   (symbol (lib_id "Switch:SW_SPST") (at 294.64 137.16 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 7efd1743-e976-4dab-a0f0-bb771134e4b4)
-    (property "Reference" "K_s1" (id 0) (at 294.64 130.81 0))
+    (property "Reference" "K_33" (id 0) (at 294.64 130.81 0))
     (property "Value" "SW_SPST" (id 1) (at 294.64 133.35 0))
     (property "Footprint" "keyswitches:Kailh_socket_MX_1u" (id 2) (at 294.64 137.16 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -8851,7 +8851,7 @@
   (symbol (lib_id "Switch:SW_SPST") (at 355.6 137.16 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 7f6707c2-ea54-4df7-a21b-ed737b5137ff)
-    (property "Reference" "K_h1" (id 0) (at 355.6 130.81 0))
+    (property "Reference" "K_37" (id 0) (at 355.6 130.81 0))
     (property "Value" "SW_SPST" (id 1) (at 355.6 133.35 0))
     (property "Footprint" "keyswitches:Kailh_socket_MX_1u" (id 2) (at 355.6 137.16 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -8921,7 +8921,7 @@
   (symbol (lib_id "Switch:SW_SPST") (at 386.08 99.06 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 84c83394-c634-4561-a4a9-23095e3c08ec)
-    (property "Reference" "K_8" (id 0) (at 386.08 92.71 0))
+    (property "Reference" "K_9" (id 0) (at 386.08 92.71 0))
     (property "Value" "SW_SPST" (id 1) (at 386.08 95.25 0))
     (property "Footprint" "keyswitches:Kailh_socket_MX_1u" (id 2) (at 386.08 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -9021,7 +9021,7 @@
   (symbol (lib_id "Switch:SW_SPST") (at 340.36 113.03 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 887a3ad6-ae37-4e91-bddb-80a3d7103544)
-    (property "Reference" "K_t1" (id 0) (at 340.36 106.68 0))
+    (property "Reference" "K_21" (id 0) (at 340.36 106.68 0))
     (property "Value" "SW_SPST" (id 1) (at 340.36 109.22 0))
     (property "Footprint" "keyswitches:Kailh_socket_MX_1u" (id 2) (at 340.36 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -9183,7 +9183,7 @@
   (symbol (lib_id "Switch:SW_SPST") (at 386.08 137.16 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 8bbb68b7-8564-4bfd-b6af-3c6a7dcdec51)
-    (property "Reference" "K_k1" (id 0) (at 386.08 130.81 0))
+    (property "Reference" "K_39" (id 0) (at 386.08 130.81 0))
     (property "Value" "SW_SPST" (id 1) (at 386.08 133.35 0))
     (property "Footprint" "keyswitches:Kailh_socket_MX_1u" (id 2) (at 386.08 137.16 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -9217,7 +9217,7 @@
   (symbol (lib_id "Switch:SW_SPST") (at 431.8 93.98 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 8ca4a19d-e484-4d68-9b12-582d3b5eb5b4)
-    (property "Reference" "K_bkslash1" (id 0) (at 431.8 87.63 0))
+    (property "Reference" "K_12" (id 0) (at 431.8 87.63 0))
     (property "Value" "SW_SPST" (id 1) (at 431.8 90.17 0))
     (property "Footprint" "keyswitches:Kailh_socket_MX_1u" (id 2) (at 431.8 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -9285,7 +9285,7 @@
   (symbol (lib_id "Switch:SW_SPST") (at 340.36 93.98 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 8edb4fc1-9f5f-4846-98cd-c92d10a97f58)
-    (property "Reference" "K_5" (id 0) (at 340.36 87.63 0))
+    (property "Reference" "K_6" (id 0) (at 340.36 87.63 0))
     (property "Value" "SW_SPST" (id 1) (at 340.36 90.17 0))
     (property "Footprint" "keyswitches:Kailh_socket_MX_1u" (id 2) (at 340.36 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -9336,7 +9336,7 @@
   (symbol (lib_id "Switch:SW_SPST") (at 279.4 132.08 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 9062db37-c2c0-4b83-b0ec-75677b570662)
-    (property "Reference" "K_a1" (id 0) (at 279.4 125.73 0))
+    (property "Reference" "K_32" (id 0) (at 279.4 125.73 0))
     (property "Value" "SW_SPST" (id 1) (at 279.4 128.27 0))
     (property "Footprint" "keyswitches:Kailh_socket_MX_1u" (id 2) (at 279.4 132.08 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -9420,7 +9420,7 @@
   (symbol (lib_id "Switch:SW_SPST") (at 340.36 132.08 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 92be0634-6bf4-4b20-9cf5-e4cbb3fc71ad)
-    (property "Reference" "K_g1" (id 0) (at 340.36 125.73 0))
+    (property "Reference" "K_36" (id 0) (at 340.36 125.73 0))
     (property "Value" "SW_SPST" (id 1) (at 340.36 128.27 0))
     (property "Footprint" "keyswitches:Kailh_socket_MX_1u" (id 2) (at 340.36 132.08 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -9490,7 +9490,7 @@
   (symbol (lib_id "Switch:SW_SPST") (at 340.36 151.13 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 94094df5-027a-4546-ad3a-4fd030b1e620)
-    (property "Reference" "K_b1" (id 0) (at 340.36 144.78 0))
+    (property "Reference" "K_52" (id 0) (at 340.36 144.78 0))
     (property "Value" "SW_SPST" (id 1) (at 340.36 147.32 0))
     (property "Footprint" "keyswitches:Kailh_socket_MX_1u" (id 2) (at 340.36 151.13 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -9722,7 +9722,7 @@
   (symbol (lib_id "Switch:SW_SPST") (at 264.16 156.21 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 9ea5d6f3-490f-47f8-9a6e-9c3e111a630b)
-    (property "Reference" "K_lshift1" (id 0) (at 264.16 149.86 0))
+    (property "Reference" "K_47" (id 0) (at 264.16 149.86 0))
     (property "Value" "SW_SPST" (id 1) (at 264.16 152.4 0))
     (property "Footprint" "keyswitches:Kailh_socket_MX_1.25u" (id 2) (at 264.16 156.21 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -9737,7 +9737,7 @@
   (symbol (lib_id "Switch:SW_SPST") (at 294.64 99.06 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 9f40f04a-9c32-48b2-a110-f591e966c620)
-    (property "Reference" "K_2" (id 0) (at 294.64 92.71 0))
+    (property "Reference" "K_3" (id 0) (at 294.64 92.71 0))
     (property "Value" "SW_SPST" (id 1) (at 294.64 95.25 0))
     (property "Footprint" "keyswitches:Kailh_socket_MX_1u" (id 2) (at 294.64 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -9918,7 +9918,7 @@
   (symbol (lib_id "Switch:SW_SPST") (at 264.16 118.11 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid a349a57b-bf0f-4f62-a549-9cca1c0e88b8)
-    (property "Reference" "K_tab1" (id 0) (at 264.16 111.76 0))
+    (property "Reference" "K_16" (id 0) (at 264.16 111.76 0))
     (property "Value" "SW_SPST" (id 1) (at 264.16 114.3 0))
     (property "Footprint" "keyswitches:Kailh_socket_MX_1.5u" (id 2) (at 264.16 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -10211,7 +10211,7 @@
   (symbol (lib_id "Switch:SW_SPST") (at 355.6 156.21 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid aee0e957-e3f6-4541-a025-11560dcb5776)
-    (property "Reference" "K_n1" (id 0) (at 355.6 149.86 0))
+    (property "Reference" "K_53" (id 0) (at 355.6 149.86 0))
     (property "Value" "SW_SPST" (id 1) (at 355.6 152.4 0))
     (property "Footprint" "keyswitches:Kailh_socket_MX_1u" (id 2) (at 355.6 156.21 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -10445,7 +10445,7 @@
   (symbol (lib_id "Switch:SW_SPST") (at 264.16 175.26 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid b705c692-71f4-4e98-96db-d5b09ef82b7d)
-    (property "Reference" "K_fn1" (id 0) (at 264.16 168.91 0))
+    (property "Reference" "K_62" (id 0) (at 264.16 168.91 0))
     (property "Value" "SW_SPST" (id 1) (at 264.16 171.45 0))
     (property "Footprint" "keyswitches:Kailh_socket_MX_1u" (id 2) (at 264.16 175.26 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -10512,7 +10512,7 @@
   (symbol (lib_id "Switch:SW_SPST") (at 462.28 170.18 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid b972686b-a586-40af-b9c1-c1946b521b0b)
-    (property "Reference" "K_down1" (id 0) (at 462.28 163.83 0))
+    (property "Reference" "K_71" (id 0) (at 462.28 163.83 0))
     (property "Value" "SW_SPST" (id 1) (at 462.28 166.37 0))
     (property "Footprint" "keyswitches:Kailh_socket_MX_1u" (id 2) (at 462.28 170.18 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -10527,7 +10527,7 @@
   (symbol (lib_id "Switch:SW_SPST") (at 279.4 170.18 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid ba41dd40-40bd-4940-b428-857d9bcbc9cb)
-    (property "Reference" "K_super1" (id 0) (at 279.4 163.83 0))
+    (property "Reference" "K_63" (id 0) (at 279.4 163.83 0))
     (property "Value" "SW_SPST" (id 1) (at 279.4 166.37 0))
     (property "Footprint" "keyswitches:Kailh_socket_MX_1.5u" (id 2) (at 279.4 170.18 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -10559,7 +10559,7 @@
   (symbol (lib_id "Switch:SW_SPST") (at 447.04 137.16 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid bc219102-1216-47df-b29a-df8fe4082be8)
-    (property "Reference" "K_return1" (id 0) (at 447.04 130.81 0))
+    (property "Reference" "K_43" (id 0) (at 447.04 130.81 0))
     (property "Value" "SW_SPST" (id 1) (at 447.04 133.35 0))
     (property "Footprint" "keyswitches:Kailh_socket_MX_1u" (id 2) (at 447.04 137.16 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -10574,7 +10574,7 @@
   (symbol (lib_id "Switch:SW_SPST") (at 294.64 118.11 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid bc8ac85a-e0f0-441b-8727-f27b7a934d33)
-    (property "Reference" "K_w1" (id 0) (at 294.64 111.76 0))
+    (property "Reference" "K_18" (id 0) (at 294.64 111.76 0))
     (property "Value" "SW_SPST" (id 1) (at 294.64 114.3 0))
     (property "Footprint" "keyswitches:Kailh_socket_MX_1u" (id 2) (at 294.64 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -10608,7 +10608,7 @@
   (symbol (lib_id "Switch:SW_SPST") (at 462.28 151.13 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid be7e95ba-c981-49c7-95b0-9a92a302c5a1)
-    (property "Reference" "K_up1" (id 0) (at 462.28 144.78 0))
+    (property "Reference" "K_61" (id 0) (at 462.28 144.78 0))
     (property "Value" "SW_SPST" (id 1) (at 462.28 147.32 0))
     (property "Footprint" "keyswitches:Kailh_socket_MX_1u" (id 2) (at 462.28 151.13 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -10623,7 +10623,7 @@
   (symbol (lib_id "Switch:SW_SPST") (at 370.84 113.03 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid bfb2380b-a16c-4d00-a967-5734af141ebd)
-    (property "Reference" "K_u1" (id 0) (at 370.84 106.68 0))
+    (property "Reference" "K_23" (id 0) (at 370.84 106.68 0))
     (property "Value" "SW_SPST" (id 1) (at 370.84 109.22 0))
     (property "Footprint" "keyswitches:Kailh_socket_MX_1u" (id 2) (at 370.84 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -10638,7 +10638,7 @@
   (symbol (lib_id "Switch:SW_SPST") (at 401.32 151.13 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid c06cdca1-3f88-4c56-878c-d9f16258caf9)
-    (property "Reference" "K_.1" (id 0) (at 401.32 144.78 0))
+    (property "Reference" "K_56" (id 0) (at 401.32 144.78 0))
     (property "Value" "SW_SPST" (id 1) (at 401.32 147.32 0))
     (property "Footprint" "keyswitches:Kailh_socket_MX_1u" (id 2) (at 401.32 151.13 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -10890,7 +10890,7 @@
   (symbol (lib_id "Switch:SW_SPST") (at 447.04 99.06 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid c84da695-481b-42b4-ba33-f4f7363d7836)
-    (property "Reference" "K_del1" (id 0) (at 447.04 92.71 0))
+    (property "Reference" "K_13" (id 0) (at 447.04 92.71 0))
     (property "Value" "SW_SPST" (id 1) (at 447.04 95.25 0))
     (property "Footprint" "keyswitches:Kailh_socket_MX_1u" (id 2) (at 447.04 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -10993,7 +10993,7 @@
   (symbol (lib_id "Switch:SW_SPST") (at 264.16 99.06 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid cd256fad-c3fa-4459-b1e3-4806c51ccaca)
-    (property "Reference" "K_tilda1" (id 0) (at 264.16 92.71 0))
+    (property "Reference" "K_1" (id 0) (at 264.16 92.71 0))
     (property "Value" "SW_SPST" (id 1) (at 264.16 95.25 0))
     (property "Footprint" "keyswitches:Kailh_socket_MX_1u" (id 2) (at 264.16 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -11133,7 +11133,7 @@
   (symbol (lib_id "Switch:SW_SPST") (at 279.4 93.98 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid d064d6cf-628b-490b-a929-9791b3c266d6)
-    (property "Reference" "K_1" (id 0) (at 279.4 87.63 0))
+    (property "Reference" "K_2" (id 0) (at 279.4 87.63 0))
     (property "Value" "SW_SPST" (id 1) (at 279.4 90.17 0))
     (property "Footprint" "keyswitches:Kailh_socket_MX_1u" (id 2) (at 279.4 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -11148,7 +11148,7 @@
   (symbol (lib_id "Switch:SW_SPST") (at 370.84 132.08 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid d13852b6-f19f-4957-be0c-4f0e2e852668)
-    (property "Reference" "K_j1" (id 0) (at 370.84 125.73 0))
+    (property "Reference" "K_38" (id 0) (at 370.84 125.73 0))
     (property "Value" "SW_SPST" (id 1) (at 370.84 128.27 0))
     (property "Footprint" "keyswitches:Kailh_socket_MX_1u" (id 2) (at 370.84 132.08 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -11235,7 +11235,7 @@
   (symbol (lib_id "Switch:SW_SPST") (at 416.56 156.21 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid d411df33-5aa5-4e88-ad72-b614116befc6)
-    (property "Reference" "K_/1" (id 0) (at 416.56 149.86 0))
+    (property "Reference" "K_57" (id 0) (at 416.56 149.86 0))
     (property "Value" "SW_SPST" (id 1) (at 416.56 152.4 0))
     (property "Footprint" "keyswitches:Kailh_socket_MX_1u" (id 2) (at 416.56 156.21 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -11305,7 +11305,7 @@
   (symbol (lib_id "Switch:SW_SPST") (at 294.64 175.26 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid d70fc359-6aad-4f5d-a293-6912d333924a)
-    (property "Reference" "K_blank1" (id 0) (at 294.64 168.91 0))
+    (property "Reference" "K_64" (id 0) (at 294.64 168.91 0))
     (property "Value" "SW_SPST" (id 1) (at 294.64 171.45 0))
     (property "Footprint" "keyswitches:Kailh_socket_MX_1u" (id 2) (at 294.64 175.26 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -11633,7 +11633,7 @@
   (symbol (lib_id "Switch:SW_SPST") (at 462.28 93.98 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid e64fcd06-90df-433f-8a98-01b8ea596c80)
-    (property "Reference" "K_-1" (id 0) (at 462.28 87.63 0))
+    (property "Reference" "K_14" (id 0) (at 462.28 87.63 0))
     (property "Value" "SW_SPST" (id 1) (at 462.28 90.17 0))
     (property "Footprint" "keyswitches:Kailh_socket_MX_1u" (id 2) (at 462.28 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -11667,7 +11667,7 @@
   (symbol (lib_id "Switch:SW_SPST") (at 370.84 151.13 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid e788bcc0-b764-4204-90e8-52b57ebcb7aa)
-    (property "Reference" "K_m1" (id 0) (at 370.84 144.78 0))
+    (property "Reference" "K_54" (id 0) (at 370.84 144.78 0))
     (property "Value" "SW_SPST" (id 1) (at 370.84 147.32 0))
     (property "Footprint" "keyswitches:Kailh_socket_MX_1u" (id 2) (at 370.84 151.13 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -11701,7 +11701,7 @@
   (symbol (lib_id "Switch:SW_SPST") (at 309.88 93.98 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid e8418703-40bd-43ca-b013-83e5281f9264)
-    (property "Reference" "K_3" (id 0) (at 309.88 87.63 0))
+    (property "Reference" "K_4" (id 0) (at 309.88 87.63 0))
     (property "Value" "SW_SPST" (id 1) (at 309.88 90.17 0))
     (property "Footprint" "keyswitches:Kailh_socket_MX_1u" (id 2) (at 309.88 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -11716,7 +11716,7 @@
   (symbol (lib_id "Switch:SW_SPST") (at 386.08 156.21 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid e8d236d2-8c33-471f-afda-b6497718256c)
-    (property "Reference" "K_,1" (id 0) (at 386.08 149.86 0))
+    (property "Reference" "K_55" (id 0) (at 386.08 149.86 0))
     (property "Value" "SW_SPST" (id 1) (at 386.08 152.4 0))
     (property "Footprint" "keyswitches:Kailh_socket_MX_1u" (id 2) (at 386.08 156.21 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -11747,7 +11747,7 @@
   (symbol (lib_id "Switch:SW_SPST") (at 477.52 137.16 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid eb23c5c1-45fc-4399-b736-d4e4ec4e2165)
-    (property "Reference" "K_home1" (id 0) (at 477.52 130.81 0))
+    (property "Reference" "K_46" (id 0) (at 477.52 130.81 0))
     (property "Value" "SW_SPST" (id 1) (at 477.52 133.35 0))
     (property "Footprint" "keyswitches:Kailh_socket_MX_1u" (id 2) (at 477.52 137.16 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -11762,7 +11762,7 @@
   (symbol (lib_id "Switch:SW_SPST") (at 355.6 118.11 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid eb4d3513-8290-4957-b9d7-9e377dd04e43)
-    (property "Reference" "K_y1" (id 0) (at 355.6 111.76 0))
+    (property "Reference" "K_22" (id 0) (at 355.6 111.76 0))
     (property "Value" "SW_SPST" (id 1) (at 355.6 114.3 0))
     (property "Footprint" "keyswitches:Kailh_socket_MX_1u" (id 2) (at 355.6 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -11808,7 +11808,7 @@
   (symbol (lib_id "Switch:SW_SPST") (at 309.88 113.03 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid ecfd613b-d42a-41bb-a870-ccfc39ef4bb5)
-    (property "Reference" "K_e1" (id 0) (at 309.88 106.68 0))
+    (property "Reference" "K_19" (id 0) (at 309.88 106.68 0))
     (property "Value" "SW_SPST" (id 1) (at 309.88 109.22 0))
     (property "Footprint" "keyswitches:Kailh_socket_MX_1u" (id 2) (at 309.88 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -11982,7 +11982,7 @@
   (symbol (lib_id "Switch:SW_SPST") (at 325.12 118.11 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid f4613c86-9563-443f-a6ce-2e59743b00d2)
-    (property "Reference" "K_r1" (id 0) (at 325.12 111.76 0))
+    (property "Reference" "K_20" (id 0) (at 325.12 111.76 0))
     (property "Value" "SW_SPST" (id 1) (at 325.12 114.3 0))
     (property "Footprint" "keyswitches:Kailh_socket_MX_1u" (id 2) (at 325.12 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -12013,7 +12013,7 @@
   (symbol (lib_id "Switch:SW_SPST") (at 386.08 175.26 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid f60941a9-8471-4ea5-81d8-cae48fb0b968)
-    (property "Reference" "K_App1" (id 0) (at 386.08 168.91 0))
+    (property "Reference" "K_67" (id 0) (at 386.08 168.91 0))
     (property "Value" "SW_SPST" (id 1) (at 386.08 171.45 0))
     (property "Footprint" "keyswitches:Kailh_socket_MX_1u" (id 2) (at 386.08 175.26 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -12066,7 +12066,7 @@
   (symbol (lib_id "Switch:SW_SPST") (at 401.32 93.98 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid f901de32-7bfa-4f6b-aa44-72ff8b79287b)
-    (property "Reference" "K_9" (id 0) (at 401.32 87.63 0))
+    (property "Reference" "K_10" (id 0) (at 401.32 87.63 0))
     (property "Value" "SW_SPST" (id 1) (at 401.32 90.17 0))
     (property "Footprint" "keyswitches:Kailh_socket_MX_1u" (id 2) (at 401.32 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -12155,7 +12155,7 @@
   (symbol (lib_id "Switch:SW_SPST") (at 279.4 113.03 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid fe21b826-cb0f-4483-8471-013b6c8476a9)
-    (property "Reference" "K_q1" (id 0) (at 279.4 106.68 0))
+    (property "Reference" "K_17" (id 0) (at 279.4 106.68 0))
     (property "Value" "SW_SPST" (id 1) (at 279.4 109.22 0))
     (property "Footprint" "keyswitches:Kailh_socket_MX_1u" (id 2) (at 279.4 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -13069,218 +13069,218 @@
     (path "/fbbfa1a1-ea04-49f7-85ee-e997c4d2b907"
       (reference "H5") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_2.2mm_M2_Pad_Via")
     )
-    (path "/4c3a51c7-470e-47ff-ac1d-05c7e947725c"
-      (reference "K_'1") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
-    )
-    (path "/07ce3f8c-f971-451e-9505-907cf6ead2a0"
-      (reference "K_'2") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
-    )
-    (path "/e8d236d2-8c33-471f-afda-b6497718256c"
-      (reference "K_,1") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
-    )
-    (path "/e64fcd06-90df-433f-8a98-01b8ea596c80"
-      (reference "K_-1") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
-    )
-    (path "/c06cdca1-3f88-4c56-878c-d9f16258caf9"
-      (reference "K_.1") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
-    )
-    (path "/d411df33-5aa5-4e88-ad72-b614116befc6"
-      (reference "K_/1") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
-    )
-    (path "/71fab1fe-4605-46c2-9e4d-43ccd023b3cc"
+    (path "/342955d8-bf5d-418c-abc4-65240b87376d"
       (reference "K_0") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
     )
-    (path "/d064d6cf-628b-490b-a929-9791b3c266d6"
+    (path "/cd256fad-c3fa-4459-b1e3-4806c51ccaca"
       (reference "K_1") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
     )
-    (path "/9f40f04a-9c32-48b2-a110-f591e966c620"
+    (path "/d064d6cf-628b-490b-a929-9791b3c266d6"
       (reference "K_2") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
     )
-    (path "/e8418703-40bd-43ca-b013-83e5281f9264"
+    (path "/9f40f04a-9c32-48b2-a110-f591e966c620"
       (reference "K_3") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
     )
-    (path "/6e9fc32d-3981-41e5-ae4f-c141e49334cf"
+    (path "/e8418703-40bd-43ca-b013-83e5281f9264"
       (reference "K_4") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
     )
-    (path "/8edb4fc1-9f5f-4846-98cd-c92d10a97f58"
+    (path "/6e9fc32d-3981-41e5-ae4f-c141e49334cf"
       (reference "K_5") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
     )
-    (path "/43568d3f-3c4d-4e78-b724-c16365b0254c"
+    (path "/8edb4fc1-9f5f-4846-98cd-c92d10a97f58"
       (reference "K_6") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
     )
-    (path "/33cfebe8-91e4-447c-afd8-1289ef45ad8a"
+    (path "/43568d3f-3c4d-4e78-b724-c16365b0254c"
       (reference "K_7") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
     )
-    (path "/84c83394-c634-4561-a4a9-23095e3c08ec"
+    (path "/33cfebe8-91e4-447c-afd8-1289ef45ad8a"
       (reference "K_8") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
     )
-    (path "/f901de32-7bfa-4f6b-aa44-72ff8b79287b"
+    (path "/84c83394-c634-4561-a4a9-23095e3c08ec"
       (reference "K_9") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
     )
-    (path "/785eadbe-c3ff-455e-861f-b18cfd3b8be0"
-      (reference "K_;1") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
+    (path "/f901de32-7bfa-4f6b-aa44-72ff8b79287b"
+      (reference "K_10") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
     )
-    (path "/08c2a5bb-f9af-4fec-953a-41d957edd035"
-      (reference "K_=1") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
-    )
-    (path "/12be5158-d3fd-4a5b-8c6d-080a922cc76b"
-      (reference "K_Alt1") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1.25u")
-    )
-    (path "/f60941a9-8471-4ea5-81d8-cae48fb0b968"
-      (reference "K_App1") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
-    )
-    (path "/182656ee-5a69-4ef5-99ed-b9ed53404886"
-      (reference "K_Space_2U_2") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_2.25u")
-    )
-    (path "/7c1d743f-2ed7-4b25-9d6a-c0a900bee7f4"
-      (reference "K_Sys1") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
-    )
-    (path "/7c7e1541-009f-4404-9161-4ad1153aaabd"
-      (reference "K_[1") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
-    )
-    (path "/0a63490f-6966-4c07-99b7-cab532b5ff01"
-      (reference "K_]1") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
-    )
-    (path "/9062db37-c2c0-4b83-b0ec-75677b570662"
-      (reference "K_a1") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
-    )
-    (path "/94094df5-027a-4546-ad3a-4fd030b1e620"
-      (reference "K_b1") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
+    (path "/71fab1fe-4605-46c2-9e4d-43ccd023b3cc"
+      (reference "K_11") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
     )
     (path "/8ca4a19d-e484-4d68-9b12-582d3b5eb5b4"
-      (reference "K_bkslash1") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
-    )
-    (path "/24e59acf-6a7d-4b2b-99e9-579d9466a6d7"
-      (reference "K_bkspc1") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_2u")
-    )
-    (path "/d70fc359-6aad-4f5d-a293-6912d333924a"
-      (reference "K_blank1") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
-    )
-    (path "/47253dda-c5bb-41df-a403-1dcdb3d1a46b"
-      (reference "K_c1") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
-    )
-    (path "/64fe4a76-241d-42f0-9796-138083536b78"
-      (reference "K_ctrl1") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1.5u")
-    )
-    (path "/626a15d0-3c1d-476d-bfd1-b99a2d7c1511"
-      (reference "K_d1") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
+      (reference "K_12") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
     )
     (path "/c84da695-481b-42b4-ba33-f4f7363d7836"
-      (reference "K_del1") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
+      (reference "K_13") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
     )
-    (path "/b972686b-a586-40af-b9c1-c1946b521b0b"
-      (reference "K_down1") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
+    (path "/e64fcd06-90df-433f-8a98-01b8ea596c80"
+      (reference "K_14") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
     )
-    (path "/ecfd613b-d42a-41bb-a870-ccfc39ef4bb5"
-      (reference "K_e1") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
+    (path "/08c2a5bb-f9af-4fec-953a-41d957edd035"
+      (reference "K_15") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
     )
-    (path "/691eccea-d4c7-4f82-a980-47c916501bf0"
-      (reference "K_end1") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
-    )
-    (path "/6b126620-87b1-4783-bca8-0a87aee8ce6c"
-      (reference "K_enter1") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_2.25u")
-    )
-    (path "/342955d8-bf5d-418c-abc4-65240b87376d"
-      (reference "K_esc1") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
-    )
-    (path "/10d2fc76-436d-45eb-82a7-6d64a826932c"
-      (reference "K_f1") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
-    )
-    (path "/b705c692-71f4-4e98-96db-d5b09ef82b7d"
-      (reference "K_fn1") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
-    )
-    (path "/92be0634-6bf4-4b20-9cf5-e4cbb3fc71ad"
-      (reference "K_g1") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
-    )
-    (path "/7f6707c2-ea54-4df7-a21b-ed737b5137ff"
-      (reference "K_h1") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
-    )
-    (path "/eb23c5c1-45fc-4399-b736-d4e4ec4e2165"
-      (reference "K_home1") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
-    )
-    (path "/62052121-189f-465a-9c58-357e92445071"
-      (reference "K_i1") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
-    )
-    (path "/d13852b6-f19f-4957-be0c-4f0e2e852668"
-      (reference "K_j1") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
-    )
-    (path "/8bbb68b7-8564-4bfd-b6af-3c6a7dcdec51"
-      (reference "K_k1") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
-    )
-    (path "/1a286f42-2f53-4773-b96f-e749bc1aa377"
-      (reference "K_l1") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
-    )
-    (path "/0d2b60b2-3ab1-48ab-ba0f-e6c6930526f0"
-      (reference "K_left1") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
-    )
-    (path "/9ea5d6f3-490f-47f8-9a6e-9c3e111a630b"
-      (reference "K_lshift1") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1.25u")
-    )
-    (path "/e788bcc0-b764-4204-90e8-52b57ebcb7aa"
-      (reference "K_m1") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
-    )
-    (path "/aee0e957-e3f6-4541-a025-11560dcb5776"
-      (reference "K_n1") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
-    )
-    (path "/717e4c12-166c-4fcc-a728-1de24153ae38"
-      (reference "K_o1") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
-    )
-    (path "/12fb07c8-c29b-4bcf-b53c-f2481634e502"
-      (reference "K_p1") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
+    (path "/a349a57b-bf0f-4f62-a549-9cca1c0e88b8"
+      (reference "K_16") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1.5u")
     )
     (path "/fe21b826-cb0f-4483-8471-013b6c8476a9"
-      (reference "K_q1") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
+      (reference "K_17") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
+    )
+    (path "/bc8ac85a-e0f0-441b-8727-f27b7a934d33"
+      (reference "K_18") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
+    )
+    (path "/ecfd613b-d42a-41bb-a870-ccfc39ef4bb5"
+      (reference "K_19") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
     )
     (path "/f4613c86-9563-443f-a6ce-2e59743b00d2"
-      (reference "K_r1") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
+      (reference "K_20") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
     )
-    (path "/bc219102-1216-47df-b29a-df8fe4082be8"
-      (reference "K_return1") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
+    (path "/887a3ad6-ae37-4e91-bddb-80a3d7103544"
+      (reference "K_21") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
     )
-    (path "/625432a1-0ff3-4689-80ca-24a11631761b"
-      (reference "K_right1") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
+    (path "/eb4d3513-8290-4957-b9d7-9e377dd04e43"
+      (reference "K_22") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
     )
-    (path "/5fd52a97-7700-4290-be78-a519453791e8"
-      (reference "K_rshift1") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1.5u")
+    (path "/bfb2380b-a16c-4d00-a967-5734af141ebd"
+      (reference "K_23") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
+    )
+    (path "/62052121-189f-465a-9c58-357e92445071"
+      (reference "K_24") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
+    )
+    (path "/717e4c12-166c-4fcc-a728-1de24153ae38"
+      (reference "K_25") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
+    )
+    (path "/12fb07c8-c29b-4bcf-b53c-f2481634e502"
+      (reference "K_26") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
+    )
+    (path "/24e59acf-6a7d-4b2b-99e9-579d9466a6d7"
+      (reference "K_28") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_2u")
+    )
+    (path "/7c7e1541-009f-4404-9161-4ad1153aaabd"
+      (reference "K_29") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
+    )
+    (path "/0a63490f-6966-4c07-99b7-cab532b5ff01"
+      (reference "K_30") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
+    )
+    (path "/64fe4a76-241d-42f0-9796-138083536b78"
+      (reference "K_31") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1.5u")
+    )
+    (path "/9062db37-c2c0-4b83-b0ec-75677b570662"
+      (reference "K_32") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
     )
     (path "/7efd1743-e976-4dab-a0f0-bb771134e4b4"
-      (reference "K_s1") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
+      (reference "K_33") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
+    )
+    (path "/626a15d0-3c1d-476d-bfd1-b99a2d7c1511"
+      (reference "K_34") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
+    )
+    (path "/10d2fc76-436d-45eb-82a7-6d64a826932c"
+      (reference "K_35") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
+    )
+    (path "/92be0634-6bf4-4b20-9cf5-e4cbb3fc71ad"
+      (reference "K_36") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
+    )
+    (path "/7f6707c2-ea54-4df7-a21b-ed737b5137ff"
+      (reference "K_37") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
+    )
+    (path "/d13852b6-f19f-4957-be0c-4f0e2e852668"
+      (reference "K_38") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
+    )
+    (path "/8bbb68b7-8564-4bfd-b6af-3c6a7dcdec51"
+      (reference "K_39") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
+    )
+    (path "/1a286f42-2f53-4773-b96f-e749bc1aa377"
+      (reference "K_40") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
+    )
+    (path "/785eadbe-c3ff-455e-861f-b18cfd3b8be0"
+      (reference "K_41") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
+    )
+    (path "/07ce3f8c-f971-451e-9505-907cf6ead2a0"
+      (reference "K_42") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
+    )
+    (path "/bc219102-1216-47df-b29a-df8fe4082be8"
+      (reference "K_43") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
+    )
+    (path "/4c3a51c7-470e-47ff-ac1d-05c7e947725c"
+      (reference "K_45") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
+    )
+    (path "/eb23c5c1-45fc-4399-b736-d4e4ec4e2165"
+      (reference "K_46") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
+    )
+    (path "/9ea5d6f3-490f-47f8-9a6e-9c3e111a630b"
+      (reference "K_47") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1.25u")
+    )
+    (path "/0c786253-16cf-4e1b-ad47-cb2ba81876d7"
+      (reference "K_48") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
+    )
+    (path "/5aa76efa-537b-44d7-be6a-dc46d8bd50c4"
+      (reference "K_49") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
+    )
+    (path "/47253dda-c5bb-41df-a403-1dcdb3d1a46b"
+      (reference "K_50") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
+    )
+    (path "/14c08bf6-e5fe-4f95-9582-57940a5acea2"
+      (reference "K_51") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
+    )
+    (path "/94094df5-027a-4546-ad3a-4fd030b1e620"
+      (reference "K_52") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
+    )
+    (path "/aee0e957-e3f6-4541-a025-11560dcb5776"
+      (reference "K_53") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
+    )
+    (path "/e788bcc0-b764-4204-90e8-52b57ebcb7aa"
+      (reference "K_54") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
+    )
+    (path "/e8d236d2-8c33-471f-afda-b6497718256c"
+      (reference "K_55") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
+    )
+    (path "/c06cdca1-3f88-4c56-878c-d9f16258caf9"
+      (reference "K_56") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
+    )
+    (path "/d411df33-5aa5-4e88-ad72-b614116befc6"
+      (reference "K_57") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
+    )
+    (path "/5fd52a97-7700-4290-be78-a519453791e8"
+      (reference "K_59") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1.5u")
+    )
+    (path "/691eccea-d4c7-4f82-a980-47c916501bf0"
+      (reference "K_60") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
+    )
+    (path "/be7e95ba-c981-49c7-95b0-9a92a302c5a1"
+      (reference "K_61") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
+    )
+    (path "/b705c692-71f4-4e98-96db-d5b09ef82b7d"
+      (reference "K_62") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
+    )
+    (path "/ba41dd40-40bd-4940-b428-857d9bcbc9cb"
+      (reference "K_63") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1.5u")
+    )
+    (path "/d70fc359-6aad-4f5d-a293-6912d333924a"
+      (reference "K_64") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
+    )
+    (path "/182656ee-5a69-4ef5-99ed-b9ed53404886"
+      (reference "K_65") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_2.25u")
+    )
+    (path "/6b126620-87b1-4783-bca8-0a87aee8ce6c"
+      (reference "K_66") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_2.25u")
+    )
+    (path "/f60941a9-8471-4ea5-81d8-cae48fb0b968"
+      (reference "K_67") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
+    )
+    (path "/12be5158-d3fd-4a5b-8c6d-080a922cc76b"
+      (reference "K_68") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1.25u")
+    )
+    (path "/7c1d743f-2ed7-4b25-9d6a-c0a900bee7f4"
+      (reference "K_69") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
+    )
+    (path "/0d2b60b2-3ab1-48ab-ba0f-e6c6930526f0"
+      (reference "K_70") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
+    )
+    (path "/b972686b-a586-40af-b9c1-c1946b521b0b"
+      (reference "K_71") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
+    )
+    (path "/625432a1-0ff3-4689-80ca-24a11631761b"
+      (reference "K_72") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
     )
     (path "/27fd4f46-e98e-4a35-b996-543926a8042f"
       (reference "K_space1") (unit 1) (value "SW_SPST_3u") (footprint "keyswitches:Kailh_socket_MX_1u")
-    )
-    (path "/ba41dd40-40bd-4940-b428-857d9bcbc9cb"
-      (reference "K_super1") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1.5u")
-    )
-    (path "/887a3ad6-ae37-4e91-bddb-80a3d7103544"
-      (reference "K_t1") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
-    )
-    (path "/a349a57b-bf0f-4f62-a549-9cca1c0e88b8"
-      (reference "K_tab1") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1.5u")
-    )
-    (path "/cd256fad-c3fa-4459-b1e3-4806c51ccaca"
-      (reference "K_tilda1") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
-    )
-    (path "/bfb2380b-a16c-4d00-a967-5734af141ebd"
-      (reference "K_u1") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
-    )
-    (path "/be7e95ba-c981-49c7-95b0-9a92a302c5a1"
-      (reference "K_up1") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
-    )
-    (path "/14c08bf6-e5fe-4f95-9582-57940a5acea2"
-      (reference "K_v1") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
-    )
-    (path "/bc8ac85a-e0f0-441b-8727-f27b7a934d33"
-      (reference "K_w1") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
-    )
-    (path "/5aa76efa-537b-44d7-be6a-dc46d8bd50c4"
-      (reference "K_x1") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
-    )
-    (path "/eb4d3513-8290-4957-b9d7-9e377dd04e43"
-      (reference "K_y1") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
-    )
-    (path "/0c786253-16cf-4e1b-ad47-cb2ba81876d7"
-      (reference "K_z1") (unit 1) (value "SW_SPST") (footprint "keyswitches:Kailh_socket_MX_1u")
     )
     (path "/c8e2b690-d8b7-4512-8269-4b5a37e05352"
       (reference "R1") (unit 1) (value "1k") (footprint "Capacitor_SMD:C_0402_1005Metric")
@@ -13306,6 +13306,9 @@
     (path "/a72012fa-de1b-4d07-b523-ea9e43d172da"
       (reference "R8") (unit 1) (value "27") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
+    (path "/44a132a0-a217-46a5-a3f4-786ded4eab26"
+      (reference "RESET") (unit 1) (value "KMR2") (footprint "Button_Switch_SMD:SW_Push_1P1T_NO_CK_KMR2")
+    )
     (path "/b7127976-bbfa-403a-8998-9b6fbfd3a732"
       (reference "RV1") (unit 1) (value "R_Potentiometer_US") (footprint "potentiometers:Potentiometer_Bourns_PTA6043_Single_Slide")
     )
@@ -13315,12 +13318,6 @@
     (path "/9723b2bc-5216-4224-82fb-a7b922ef5556"
       (reference "RV3") (unit 1) (value "R_Potentiometer_US") (footprint "potentiometers:Potentiometer_Bourns_PTA6043_Single_Slide")
     )
-    (path "/44a132a0-a217-46a5-a3f4-786ded4eab26"
-      (reference "SW_RST1") (unit 1) (value "KMR2") (footprint "Button_Switch_SMD:SW_Push_1P1T_NO_CK_KMR2")
-    )
-    (path "/21e23f07-8d24-4f98-82ce-0948f29f5061"
-      (reference "SW_USB_BOOT1") (unit 1) (value "KMR2") (footprint "Button_Switch_SMD:SW_Push_1P1T_NO_CK_KMR2")
-    )
     (path "/e338c4ac-47a9-4320-8459-2ae66d26f112"
       (reference "U1") (unit 1) (value "NCP1117-3.3_SOT223") (footprint "Package_TO_SOT_SMD:SOT-223-3_TabPin2")
     )
@@ -13329,6 +13326,9 @@
     )
     (path "/370bf30e-d210-41f4-be0c-f28d288138fd"
       (reference "U3") (unit 1) (value "RP2040") (footprint "RP2040_minimal:RP2040-QFN-56")
+    )
+    (path "/21e23f07-8d24-4f98-82ce-0948f29f5061"
+      (reference "USB_BOOT") (unit 1) (value "KMR2") (footprint "Button_Switch_SMD:SW_Push_1P1T_NO_CK_KMR2")
     )
     (path "/2b78f96a-c47a-4bc0-b829-83a1cc3dddc6"
       (reference "X1") (unit 1) (value "USB Type C") (footprint "Adafruit Feather RP2040 rev B:USB_C_CUSB31-CFM2AX-01-X")
