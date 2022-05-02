@@ -1,2 +1,2 @@
 # RP2.65-F
-An Ortholinear 65% Keyboard with faders.
+An 65% Ortholinear Keyboard based on the Rasperry Pi RP2040 with faders.
