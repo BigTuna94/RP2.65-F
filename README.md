@@ -1,2 +1,2 @@
-# TbKB
-Terbium Mechanical Keyboard - an Ortholinear 65% Keyboard
+# RP2.65-F
+An Ortholinear 65% Keyboard with faders.
